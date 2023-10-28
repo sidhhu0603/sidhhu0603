@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddhant Bhoi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidhhu0603" alt="sidhhu0603" /></a> </p>
-
 - 📫 How to reach me **siddhantbhoi03@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1A7z8UHMgOkZMA5qAKSy_dmPioMLCnuTd/view?usp=drive_link](https://drive.google.com/file/d/1A7z8UHMgOkZMA5qAKSy_dmPioMLCnuTd/view?usp=drive_link)
